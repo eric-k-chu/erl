@@ -3,7 +3,11 @@
     "no-unused-vars": "off",
     "no-undef": "off",
     "no-console": "warn",
-    "no-debugger": "error"
+    "no-debugger": "error",
+    "no-async-await": "off",
+    "no-rest-spread-properties": "off",
+    "no-optional-chaining": "off",
+    "explicit-function-return-type": "off"
   },
   "categories": {
     "suspicious": "error",
